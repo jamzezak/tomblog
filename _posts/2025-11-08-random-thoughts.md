@@ -1,3 +1,9 @@
+---
+title: "Random thoughts"
+date: 2025-11-08 22:08:00 -0500
+---
+
+
 ## Random thoughts
 Well, I don't know where to begin really
 
