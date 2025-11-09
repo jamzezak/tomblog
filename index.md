@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This here will be a blog about some of the most random things I can think of
 
-Maybe say a some things about yourself.
+Some of them will be poetry, some will be every day to day things, and what not
 
-Or maybe what you plan to blog about.
+Some will be emotionally charged, some will be stupid and silly.
