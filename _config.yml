@@ -4,6 +4,7 @@ description: "I couldn't think of anything clever enough to put as a description
 
 url: "https://jamzezak.github.io"
 baseurl: "/tomblog"
+timezone: America/Toronto
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
