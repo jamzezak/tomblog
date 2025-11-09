@@ -27,7 +27,8 @@ permalink: /archive.html
 
       <h3 class="archive-month" id="{{ year.name }}-{{ month_num }}">{{ month_name }}</h3>
       <ul class="archive-list">
-        {%- for post in month.items -%}
+        {%- assign posts_in_month = month.items | sort: "date" | reverse -%}
+        {%- for post in posts_in_month -%}
           <li>
             <a href="{{ post.url | relative_url }}">
               <span class="archive-date">{{ post.date | date: "%b %d" }}</span>
