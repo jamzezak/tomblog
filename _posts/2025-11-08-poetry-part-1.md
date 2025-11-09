@@ -1,3 +1,8 @@
+---
+title: "Poetry Part 1"
+date: 2025-11-08 23:00:00 -0500
+---
+
 ## Poetry Part 1
 
 
