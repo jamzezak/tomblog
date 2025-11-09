@@ -1,6 +1,5 @@
-## Poetry Part 1
+## Since I have no clear direction of what I want to write, I will instead share some of the poetry I have written over the last 2 weeks to 3 months.
 
-Since I have no clear direction of what I want to write, I will instead share some of the poetry I have written over the last 2 weeks to 3 months.
 
 In the desolate corridors of my mind, I find myself navigating the intricate memories of our shared moments.
 Each step I take resonates with a familiar echo of the laugh and jokes we've made
@@ -21,4 +20,17 @@ Within the confines of a truth that we refuse to acknowledge lies the absurdity 
 Some people would parallel that to being naked in the eyes of the wrong person
 A horrifying and distressing feeling that feels so comfortable to me, if it's you.
 
+
 ## Poetry Part 2
+
+I walked towards an uncertainty, heart racing with every step taken
+Your sun-kissed skin glowing in the distant light
+Your smile serving as my guiding light
+Waves of silence crashed upon the busy intersection
+Everything around seemed to fade until there was only us
+The silence spoke louder than we ever could
+Until I held you.
+You felt like a feather in my arms
+Light, fragile, soft to the touch
+If you were to slip away from me, I'd still be reaching.
+I shouldn't have held you in my arms that night.
