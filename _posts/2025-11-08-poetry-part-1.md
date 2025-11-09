@@ -3,7 +3,7 @@ title: "Poetry Part 1"
 date: 2025-11-08 23:00:00 -0500
 ---
 
-## Poetry Part 1
+# Poem #1
 
 
 In the desolate corridors of my mind, I find myself navigating the intricate memories of our shared moments.
@@ -39,7 +39,7 @@ Some people would parallel that to being naked in the eyes of the wrong person
 A horrifying and distressing feeling that feels so comfortable to me, if it's you.
 
 
-## Poetry Part 2
+# Poem #2
 
 I walked towards an uncertainty, heart racing with every step taken
 
