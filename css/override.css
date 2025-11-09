@@ -42,4 +42,7 @@ hr {
   transform: translateY(-50%);
   font-size: 2.5em;
   opacity: 0.3;
+
+  /* Hide Minima footer */
+.site-footer { display: none; }
 }
