@@ -15,7 +15,7 @@ Some will be emotionally charged, some will be stupid and silly.
   {%- assign posts_desc = site.posts | sort: "date" | reverse -%}
   {%- for post in posts_desc -%}
     <li>
-      <div class="post-meta">{{ post.date | date: "%b %d, %Y %H:%M" }}</div>
+      <div class="post-meta">{{ post.date | date: "%b %d, %Y " }}</div>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       {%- if post.excerpt -%}
         <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
