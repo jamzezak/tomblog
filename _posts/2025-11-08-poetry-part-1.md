@@ -1,9 +1,10 @@
 ---
 title: "Poetry Part 1"
-date: 2025-11-08 23:00:00 -0500
+date: 2025-11-08 23:00:00 
 ---
 
-# Poem #1
+## Poetry Part 1 - Finished Projects
+
 
 
 In the desolate corridors of my mind, I find myself navigating the intricate memories of our shared moments.
